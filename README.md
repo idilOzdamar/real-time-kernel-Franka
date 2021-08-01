@@ -1,4 +1,9 @@
-# real-time-kernel-Franka
+# Real-time-kernel-Franka
+
+-Be sure below is selected:
+
+![ayar](https://user-images.githubusercontent.com/74590114/127777962-471160ce-595b-4466-afce-593ea1256684.png)
+
 
 -For details look: https://frankaemika.github.io/docs/installation_linux.html
 
